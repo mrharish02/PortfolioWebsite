@@ -1,0 +1,27 @@
+/* .footer {
+    width: 100vw;
+    max-width: 75rem;
+    height: 4rem;
+    background: rgb(24, 61, 61);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-weight: 300;
+    font-size: small;
+} */
+
+.footer {
+    background: rgb(24, 61, 61);
+    height: 3.6rem;
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
